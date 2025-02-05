@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "bagofvisualwords"
+version = "0.1.0"
+description = ""
+authors = ["rafkat <rafgaleev3@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+jupyter = "^1.1.1"
+opencv-contrib-python-headless = "^4.11.0.86"
+opencv-python-headless = "^4.11.0.86"
+datasets = "^3.2.0"
+pillow = "^11.1.0"
+kaggle = "^1.6.17"
+huggingface-hub = "^0.28.1"
+opencv-contrib-python = "^4.11.0.86"
+matplotlib = "^3.10.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
