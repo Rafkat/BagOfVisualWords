@@ -16,6 +16,7 @@ kaggle = "^1.6.17"
 huggingface-hub = "^0.28.1"
 opencv-contrib-python = "^4.11.0.86"
 matplotlib = "^3.10.0"
+scipy = "^1.15.1"
 
 
 [build-system]
